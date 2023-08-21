@@ -1,0 +1,18 @@
+
+
+
+.main-containr{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+.card-containr{
+    margin-top: 5%;
+    width: 20%;
+    height: 30%;
+    margin-left: 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color:rgb(244 244 244);
+    padding: 20px;
+}

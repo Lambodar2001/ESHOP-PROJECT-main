@@ -1,0 +1,24 @@
+.container {
+    background-image: url('https://img.freepik.com/premium-photo/bag-with-coins-shopping-cart-from-supermarket_463270-6037.jpg');
+    height: 100vh;
+    width: 100;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 15%;
+}
+
+span{
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+
+.btn-header{
+   color: white;
+   margin-left: 70%;
+   font-size: 20px;
+}
+.btn {
+    color: #fff;
+    font-size: 15px;
+}
+.btn-toggle{
+    margin-left: -20px;
+    background-color: #3f51b5;
+    height: 50px;
+    padding: 5px
+}
